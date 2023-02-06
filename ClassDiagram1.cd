@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ghost.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost.Usuarios" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAIAAAIIEAAAAAwAAAAAhAIEAAEAAAEAKAACIA=</HashCode>
+      <FileName>Usuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost.pantallaDeCarga" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PantallaDeCarga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost.menu" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAABIAACAAAAAAgAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost.logo" Collapsed="true">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAABIAAAAAAAAgAAAAAAAAAAAAAAEAAAAIA=</HashCode>
+      <FileName>logo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost.Flappy" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAADAEAAAAQAAAAAECAAACAAAQAIAAAAAAAEAI=</HashCode>
+      <FileName>Flappy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost.Wall" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAEAYAA=</HashCode>
+      <FileName>Flappy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost.Ghost" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAABAAAABIAACAAAAEAYAI=</HashCode>
+      <FileName>Flappy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost.Board" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Flappy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

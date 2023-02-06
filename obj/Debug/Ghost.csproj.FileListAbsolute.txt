@@ -1,0 +1,41 @@
+C:\Users\Administrator\Source\Repos\Ghost\Ghost\obj\Debug\Ghost.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Ghost\Ghost\obj\Debug\Ghost.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Ghost\Ghost\bin\Debug\Ghost.exe.config
+C:\Users\Administrator\Source\Repos\Ghost\Ghost\bin\Debug\Ghost.exe
+C:\Users\Administrator\Source\Repos\Ghost\Ghost\bin\Debug\Ghost.pdb
+C:\Users\Administrator\Source\Repos\Ghost\Ghost\obj\Debug\Ghost.exe
+C:\Users\Administrator\Source\Repos\Ghost\Ghost\obj\Debug\Ghost.pdb
+C:\Users\HP G4\Documents\UPQROO\ING_SOFTWARE\PROGRAMAS\Ghost\Ghost\bin\Debug\Ghost.exe.config
+C:\Users\HP G4\Documents\UPQROO\ING_SOFTWARE\PROGRAMAS\Ghost\Ghost\bin\Debug\Ghost.exe
+C:\Users\HP G4\Documents\UPQROO\ING_SOFTWARE\PROGRAMAS\Ghost\Ghost\bin\Debug\Ghost.pdb
+C:\Users\HP G4\Documents\UPQROO\ING_SOFTWARE\PROGRAMAS\Ghost\Ghost\obj\Debug\Ghost.csprojAssemblyReference.cache
+C:\Users\HP G4\Documents\UPQROO\ING_SOFTWARE\PROGRAMAS\Ghost\Ghost\obj\Debug\Ghost.csproj.CoreCompileInputs.cache
+C:\Users\HP G4\Documents\UPQROO\ING_SOFTWARE\PROGRAMAS\Ghost\Ghost\obj\Debug\Ghost.exe
+C:\Users\HP G4\Documents\UPQROO\ING_SOFTWARE\PROGRAMAS\Ghost\Ghost\obj\Debug\Ghost.pdb
+C:\Users\Armst\Pictures\Ghost\Ghost\bin\Debug\Ghost.exe.config
+C:\Users\Armst\Pictures\Ghost\Ghost\bin\Debug\Ghost.exe
+C:\Users\Armst\Pictures\Ghost\Ghost\bin\Debug\Ghost.pdb
+C:\Users\Armst\Pictures\Ghost\Ghost\obj\Debug\Ghost.csprojAssemblyReference.cache
+C:\Users\Armst\Pictures\Ghost\Ghost\obj\Debug\Ghost.csproj.CoreCompileInputs.cache
+C:\Users\Armst\Pictures\Ghost\Ghost\obj\Debug\Ghost.exe
+C:\Users\Armst\Pictures\Ghost\Ghost\obj\Debug\Ghost.pdb
+C:\Users\Sebastian\Desktop\Ghost\Ghost\bin\Debug\Ghost.exe.config
+C:\Users\Sebastian\Desktop\Ghost\Ghost\bin\Debug\Ghost.exe
+C:\Users\Sebastian\Desktop\Ghost\Ghost\bin\Debug\Ghost.pdb
+C:\Users\Sebastian\Desktop\Ghost\Ghost\obj\Debug\Ghost.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Ghost\Ghost\obj\Debug\Ghost.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Ghost\Ghost\obj\Debug\Ghost.exe
+C:\Users\Sebastian\Desktop\Ghost\Ghost\obj\Debug\Ghost.pdb
+C:\Users\Armst\Desktop\Ghost\Ghost\bin\Debug\Ghost.exe.config
+C:\Users\Armst\Desktop\Ghost\Ghost\bin\Debug\Ghost.exe
+C:\Users\Armst\Desktop\Ghost\Ghost\bin\Debug\Ghost.pdb
+C:\Users\Armst\Desktop\Ghost\Ghost\obj\Debug\Ghost.csprojAssemblyReference.cache
+C:\Users\Armst\Desktop\Ghost\Ghost\obj\Debug\Ghost.csproj.CoreCompileInputs.cache
+C:\Users\Armst\Desktop\Ghost\Ghost\obj\Debug\Ghost.exe
+C:\Users\Armst\Desktop\Ghost\Ghost\obj\Debug\Ghost.pdb
+C:\Users\Armst\Desktop\Ghost\Ghost\obj\Debug\Interop.WMPLib.dll
+C:\Users\Armst\Desktop\Ghost\Ghost\obj\Debug\Ghost.csproj.ResolveComReference.cache
+C:\Users\Sebastian\Desktop\Ghost\Ghost\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sebastian\Desktop\Ghost\Ghost\obj\Debug\Ghost.csproj.ResolveComReference.cache
+C:\Users\Armst\Pictures\Ghost\Ghost\obj\Debug\Interop.WMPLib.dll
+C:\Users\Armst\Pictures\Ghost\Ghost\obj\Debug\Ghost.csproj.ResolveComReference.cache
